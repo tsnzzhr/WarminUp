@@ -1,0 +1,30 @@
+Setelah sekian modul, salah satu asisten dosen di kelas ini akan membuat soal yang cukup menantang bagi praktikannya, pecahkan formula deret dari beberapa deret yang diberikan :
+
+13 40 20 10 5 16 8 4 2 1
+16 8 4 2 1
+17 52 26 13 40 20 10 5 16 8 4 2 1
+7 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+Input Format
+
+input berupa angka yang akan dijadikan sebagai awalan pada deret bilangan
+
+Constraints
+
+input <= 50
+
+Output Format
+
+output berupa angka 1 sebagai akhir dari deret bilangan
+
+Sample Input 0
+
+13
+Sample Output 0
+
+13 40 20 10 5 16 8 4 2 1
+Sample Input 1
+
+11
+Sample Output 1
+
+11 34 17 52 26 13 40 20 10 5 16 8 4 2 1

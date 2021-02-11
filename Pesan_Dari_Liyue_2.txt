@@ -1,0 +1,49 @@
+Setelah berhasil memecahkan pesan rahasia ketika dalam perjalanan menuju Liyue, Lumine segera menuju barat negeri Liyue seperti yang ditunjukkan oleh pesan rahasia tersebut. Mengingat levelnya yang masih rendah, Lumine perlu berhati-hati untuk tidak sampai ke daerah dengan musuh yang memiliki level lebih tinggi darinya. Kamu sebagai ahli peta Mondstadt harus membantu Lumine dengan memberi detail daerah yang akan dilalui Lumine agar Lumine bisa selamat sampai tujuan. Detail berisi total kesulitan dalam satu daerah, jumlah node / petak dalam suatu daerah, dan danger level yaitu total kesulitan dibagi jumlah node / petak dalam suatu daerah.
+
+Keterangan peta :
+
+Bilangan bulat A menunjukkan tingkat kesulitan di petak / node tersebut
+A = 0, merupakan batas daerah dari daerah disekitarnya
+Penghitungan daerah dimulai dari pojok kiri atas peta sampa ke pojok kanan bawah peta
+Input Format
+
+Baris pertama adalah bilangan bulat S yang merupakan panjang sisi peta
+
+Baris selanjutnya berupa kumpulan bilangan bulat A yang membentuk persegi
+
+Constraints
+
+Size max: 10x10, dan input pasti berbentuk persegi
+0 ≤ A ≤ 9
+Output Format
+
+Untuk setiap daerah yang terdeteksi, keluarkan :
+
+"daerah d : total kesulitan k dengan n node, danger level : x"
+
+d merupakan urutan daerah ( dihitung mulai pojok kiri atas )
+k merupakan jumlah total A dalam satu daerah
+n merupakan jumlah petak/node dalam satu daerah
+x merupakan danger level yang dapat dihitung dengan k/n ( keluarkan 2 angka dibelakang koma saja)
+Sample Input 0
+
+5
+1 0 1 0 2
+9 0 9 9 0
+0 2 2 0 7
+1 1 0 6 3 
+0 0 4 0 8
+Sample Output 0
+
+daerah 1 : total kesulitan 10 dengan 2 node, danger level : 5.00
+daerah 2 : total kesulitan 25 dengan 7 node, danger level : 3.57
+daerah 3 : total kesulitan 2 dengan 1 node, danger level : 2.00
+daerah 4 : total kesulitan 24 dengan 4 node, danger level : 6.00
+daerah 5 : total kesulitan 4 dengan 1 node, danger level : 4.00
+Explanation 0
+
+daerah 1 = 1 + 9 = 10, berisi 2 petak/node, 10/2 = 5
+daerah 2 = 1 + 9 + 9 + 2 + 2 + 1 + 1 = 25, berisi 7 petak/node, 25/7 = 3.57
+daerah 3 = 2, berisi 1 petak/node, 2/1 = 2
+daerah 4 = 7 + 6 + 3 + 8 = 24, berisi 4 petak/node, 24/4 = 6
+daerah 5 = 4, berisi 1 petak/node , 4/1 = 4

@@ -1,0 +1,22 @@
+0,1,1,2,3,5,8,...
+
+temukan bilangan ke-N!
+
+Input Format
+
+bilangan N
+
+Constraints
+
+0 ≤ N ≤ 40
+
+Output Format
+
+bilangan ke-N sesuai pola
+
+Sample Input 0
+
+5
+Sample Output 0
+
+5

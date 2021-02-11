@@ -1,0 +1,22 @@
+Ada sebuah mahasiswa di negeri yang tidak diketahui meminta tolong kepada anda, untuk membantunya mengerjakan praktikum mata kuliah dasar pemrograman. Dimana soalnya, ia disuruh mencari apakah bilangan ini bilangan prima, armstrong, dan bilangan sempurna atau tidak dengan menggunakan fungsi. Jika angka merupakan bilangan prima, maka keluarkan ""angka" adalah bilangan prima", jika bukan, maka keluarkan ""angka" bukan bilangan prima". Jika angka merupakan bilangan Armstrong, maka keluarkan ""angka" adalah bilangan Armstrong", jika bukan maka keluarkan ""angka" bukan bilangan Armstrong". Jika angka merupakan bilangan sempurna, maka keluarkan ""angka" adalah bilangan sempurna", jika tidak keluarkan ""angka" bukan bilangan sempurna".
+
+Input Format
+
+input berupa angka yang ingin dicek apakah bilangan tersebut merupakan bilangan prima, armstrong, dan bilangan sempurna atau tidak
+
+Constraints
+
+angka <= 9999
+
+Output Format
+
+format output sudah dijelaskan pada deskripsi soal.
+
+Sample Input 0
+
+11
+Sample Output 0
+
+11 adalah bilangan prima
+11 bukan bilangan Armstrong
+11 bukan bilangan sempurna

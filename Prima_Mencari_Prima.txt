@@ -1,0 +1,26 @@
+Suatu hari Prima sedang memikirkan bagaimana cara untuk membuat program dalam bahasa c yang mencari apakah bilangan x yang di-inputkan adalah bilangan prima atau tidak, tapi dia sedang malas dan meminta bantuan pada anda untuk membantu Prima dalam membuat program tersebut
+
+Input Format
+
+Pada baris pertama, masukkan x.
+
+Constraints
+
+0
+
+Output Format
+
+Output berupa pernyataan apakah bilangan yang di-inputkan bilangan prima atau tidak. Jika bilangan prima maka print "Ini bilangan prima, Prima!", kalau tidak print "Bukan bilangan prima, Prima!". jangan lupa newline ya :)
+
+Sample Input 0
+
+1
+Sample Output 0
+
+Bukan bilangan prima, Prima!
+Sample Input 1
+
+2
+Sample Output 1
+
+Ini bilangan prima, Prima!

@@ -1,0 +1,39 @@
+Zen adalah seolah game developer pemula. Kali ini, dia ingin berlatih dengan membuat game minesweeper. Namun, karena dia malas untuk membuat design levelnya. Dia memintamu untuk membuat desain level minesweeper dan hanya memberimu koordinat bom dan ukuran kotak dari gamenya.
+
+Buatlah peta / gambar dari kotak minesweeper dengan koordinat bom dan ukuran yang diberikan!
+
+Kotak minesweeper akan berisi petak petak berjumlah sebanyak M x N , Apabila petak berisi bom, maka keluarkan -1. Apabila petak tidak berisi bom, maka keluarkan jumlah bom yang ada disekitar petak tersebut.
+
+Input Format
+
+Baris pertama berisi ukuran kotak M x N dan bilangan bulat B yaitu jumlah bom
+
+Untuk setiap jumlah B , masukkan kolom ke - X , dan baris ke - Y dari bom
+
+Constraints
+
+1 ≤ M,N,X,Y ≤ 10
+
+0 ≤ B ≤ 100
+
+Output Format
+
+Apabila koordinat dari bom tidak sesuai ukuran kotak, maka keluarkan "Input gagal!" saja
+
+Jika input berhasil, keluarkan gambar dari kotak minesweeper.
+
+Sample Input 0
+
+4 4 6
+1 1
+1 2
+2 1
+4 4
+3 4
+4 3
+Sample Output 0
+
+-1 -1 1 0 
+-1 3 2 1 
+1 2 3 -1 
+0 1 -1 -1

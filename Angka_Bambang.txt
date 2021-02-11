@@ -1,0 +1,20 @@
+Bambang adalah orang yang suka terhadap angka dengan model tertentu, syaratnya adalah angka tersebut jika diurutkan secara terbalik akan menghasilkan angka yang sama seperti sebelum dibalik. Anaknya, Bangbam ingin membuat program untuk mencari angka-angka kesukaan ayahnya, bantulah Bangbam!
+
+Input Format
+
+Pada baris pertama, masukkan angka yang ingin diketahui
+
+Constraints
+
+0 < angka yang ingin dicari <= 999999
+
+Output Format
+
+Jika angka merupakan angka kesukaan Bambang, keluarkan "Bambang Like Dis!", jika tidak, keluarkan "Bambang Liken't!"
+
+Sample Input 0
+
+1000
+Sample Output 0
+
+Bambang Liken't!
