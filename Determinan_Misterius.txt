@@ -1,0 +1,21 @@
+| A B |
+
+| C D |
+
+Nilai A, B, C, D tidak disebutkan di soal. Cluenya adalah pada gambar di link ini https://drive.google.com/file/d/1_9Jk7nwYXr-wgGbSTXcxqXLhGApLEDrc/view?usp=sharing .
+
+Ya ini soalnya agak misterius, silahkan berpikir out of the box dari clue itu untuk menyelesaikan soal ini.
+
+Semangat ya rek, kalo udah nemu cluenya, jangan emosi klo ternyata ini soal yang gampang ngodingnya :))
+
+Input Format
+
+-
+
+Constraints
+
+-
+
+Output Format
+
+Sebuah bilangan bulat D yang berisi determinan matrix.

@@ -1,0 +1,26 @@
+Hajungan memiliki sebuah persegi yang bisa dia luaskan kepada area di sekitar persegi tersebut dengan luas yang sama dengan potongan persegi tersebut seperti gambar berikut.
+
+image
+
+Dia ingin tahu berapa banyak persegi yang ada bila memperluas daerah persegi sebanyak N kali.
+
+Input Format
+
+Pada baris pertama, masukkan N.
+
+Constraints
+
+0 <= N <= 65536
+
+Output Format
+
+Output berupa jawaban sesuai dengan input yang diberikan diakhiri endline.
+
+Sample Input 1
+0
+Sample Output 1
+1
+Sample Input 2
+1
+Sample Output 2
+14

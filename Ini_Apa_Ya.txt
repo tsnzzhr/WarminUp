@@ -1,0 +1,29 @@
+Roy adalah anak yang jenius, tapi dia punya satu kekurangan, yaitu tidak bisa membedakan apakah karakter berupa huruf, angka(0-9), atau karakter spesial. Dia meminta tolong pada anda untuk membuatkan program C untuk menyelesaikan masalahnya tersebut
+
+Input Format
+
+Baris pertama berisi sebuah karakter yang ingin di cek
+
+Constraints
+
+(bila berupa angka) 0 ≤ karakter ≤ 9
+
+Output Format
+
+Output berupa jenis dari karakter yang diinputkan.
+
+"ini huruf bro" untuk karakter huruf
+"ini angka bro" untuk karakter angka
+"ini karakter spesial bro" untuk karakter spesial
+Sample Input 0
+
+C
+Sample Output 0
+
+ini huruf bro
+Sample Input 1
+
+@
+Sample Output 1
+
+ini karakter spesial bro

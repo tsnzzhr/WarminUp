@@ -1,0 +1,27 @@
+Zydhan memberikan Salsa sebuah tantangan. Tantangan tersebut adalah Salsa diberi dua buah bilangan bulat a dan b.
+
+Lalu untuk menyelesaikan tantangannya, maka Salsa harus mengeluarkan output (a ^ x) + (b ^ x) terkecil untuk sembarang nilai x.
+
+NOTE : ^ adalah operasi XOR
+
+Input Format
+
+Dua buah bilangan bulat a dan b.
+
+Constraints
+
+1 <= a, b <= 10^19
+
+Output Format
+
+Sebuah bilangan bulat n sesuai deskripsi soal.
+
+Sample Input 0
+
+11 23
+Sample Output 0
+
+28
+Explanation 0
+
+Hasil terkecil dapat ditemukan dengan memilih x = 3, dimana (11 ^ 3) + (23 ^ 3) = 8 + 20 = 28.

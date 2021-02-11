@@ -1,0 +1,21 @@
+Di suatu kolam, terdapat katak yang senang melompat.Katak ini memiliki kekuatan lompat sebesar b teratai. Setiap kali dia lompat, kekuatan lompatnya akan terus berkurang 1 teratai. Apabila katak ini memulai perjalanannya di teratai ke-a, tentukan di teratai ke berapa katak tersebut akan berhenti.
+
+Input Format
+
+Input berupa a yaitu posisi awal katak dan b yaitu kekuatan lompat katak
+
+Constraints
+
+1 ≤ a ≤ 100
+1 ≤ b ≤ 10^9
+
+Output Format
+
+Output berupa posisi terakhir katak
+
+Sample Input 0
+
+2 5
+Sample Output 0
+
+17

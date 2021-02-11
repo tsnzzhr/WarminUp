@@ -1,0 +1,35 @@
+Roy adalah anak jenius, dan dia sedang gabut, dia ingin membuat kalkulator sederhana di program bahasa C, yang dapat melakukan pertambahan,pengurangan,perkalian,dan pembagian pada 2 angka. Tapi ternyata dia sedang malas untuk membuat programnya dan meminta bantuan pada anda untuk membuat program tersebut.
+
+Input Format
+
+Diberikan dua baris input. Pada baris pertama diminta untuk memasukkan 2 angka, lalu pada baris selanjutnya akan diminta operasi yang akan dilakukan pada 2 angka tersebut. (P) untuk pertambahan, (M) untuk pengurangan, (K) untuk perkalian, (B) untuk pembagian.
+
+TANPA TANDA KURUNG
+
+Constraints
+
+0 ≤ angka1 ≤ 999
+
+0 ≤ angka2 ≤ 999
+
+Output Format
+
+Menampilkan hasil operasi sesuai yang telah diinputkan pada program. Jika ada input yang tidak sesuai, maka akan mengeluarkan "Maaf, input anda salah"
+
+Sample Input 0
+
+10 2
+K
+Sample Output 0
+
+20
+Sample Input 1
+
+100 0
+B
+Sample Output 1
+
+Maaf, input anda salah
+Explanation 1
+
+tidak dapat dilakukan pembagian 100/0

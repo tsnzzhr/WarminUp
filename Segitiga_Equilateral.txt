@@ -1,0 +1,21 @@
+Sebuah segitiga sama sisi dibangun menyerupai grid berisikan segitiga sama sisi itu sendiri sehingga besar segitiga tersebut sama dengan N kali besar segitiga tersebut.imageBerapa banyak segitiga yang ada pada segitiga sama sisi dengan besarnya N kali segitiga tersebut?
+
+Input Format
+
+Baris pertama hanya menerima input N.
+
+Constraints
+
+1 <= N <= 200
+Output Format
+
+Output berupa integer yang merupakan jumlah segitiga dari perintah soal.
+
+Sample Input 1
+1
+Sample Output 1
+1
+Sample Input 2
+2
+Sample Output 2
+5

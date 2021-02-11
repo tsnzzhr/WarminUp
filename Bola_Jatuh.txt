@@ -1,0 +1,33 @@
+Seorang fisikawan bernama zyd sedang bingung terhadap apa yang ia kerjakan. Oleh karena itu, dia berniat untuk refreshing sambil tetap membuat otaknya berpikir.
+
+Kebetulan, disebelahnya ada sebuah bola yang bisa memantul b / c dari ketinggian sebelumnya. Akhirnya, zyd menjatuhkan bola itu dari ketinggian a lalu mengamatinya hingga bola berhenti memantul.
+
+Awalnya ia masih mau berpikir untuk menghitung manual, namun karena ia sudah lelah, maka anda diminta untuk membuatkan program yang dapat menghitung jarak total yang ditempuh bola sejak dijatuhkan hingga berhenti.
+
+Input Format
+
+3 bilangan bulat a, b, c sesuai dengan deskripsi soal.
+
+Constraints
+
+1 <= a, b <= 10^9
+
+2 <= c <= 10^9
+
+b < c
+
+Pada kasus uji selain pada contoh, dijamin a dapat dibagi habis oleh c - b
+
+Output Format
+
+Keluarkan sebuah bilangan jarak total yang ditempuh bola sejak dijatuhkan hingga berhenti.
+
+Sample Input 0
+
+5 1 11
+Sample Output 0
+
+6
+Explanation 0
+
+Bola dijatuhkan dari ketinggian 5 meter dengan pantulan 1/11 dari ketinggian sebelumnya sehingga jarak total yang ditempuh hingga berhenti adalah 6.

@@ -1,0 +1,22 @@
+Hansekyo ingin bermain dengan Tamvhan. Hansekyo akan memberikan sebuah angka A dan Tamvhan akan menyebutkan semua digit yang terkandung dalam angka yang diberikan Hansekyo. Namun, Tamvhan bukanlah orang tercerah yang dapat kamu temui. Ia memintamu untuk membuatkan program yang dapat menjawab permainan Hansekyo.
+
+Input Format
+
+Pada baris pertama, masukkan nilai A.
+
+Constraints
+
+0 <= A <= 999999
+
+Output Format
+
+Hasil berupa kalimat berisikan sebutan tiap digit berurut dari satuan terbesar ke terkecil diakhiri dengan newline.
+
+Sample Input 1
+101
+Sample Output 1
+Satu Nol Satu
+Sample Input 1
+9791
+Sample Output 1
+Sembilan Tujuh Sembilan Satu
