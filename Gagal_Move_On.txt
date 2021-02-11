@@ -1,0 +1,23 @@
+Ray sedang gagal move on, suatu hari ia ingin menggali kembali barang-barang kenangan yang telah diberikan oleh doi ke dia, barang-barang tersebut diberi label angka, barang-barang tersebut ditaruh didalam sebuah box besar, dan Ray ingin mengurutkan dahulu barang-barang tersebut dari angka terbesar ke angka terkecil, lalu ia ingin mencari suatu barang tertentu, bantulah Ray!
+
+Input Format
+
+Baris pertama berisi jumlah barang yang dimiliki, Baris kedua berisi n angka barang yang Ray miliki, Baris ketiga berisi angka pada barang yang akan ia cari.
+
+Constraints
+
+0 < jumlah barang <= 50
+
+Output Format
+
+Pada baris pertama ditampilkan hasil pengurutan angka dari besar-kecil, Pada baris kedua ditampilkan di urutan ke berapakah barang yang Ray cari berada.
+
+Sample Input 0
+
+Jumlah Barang: 4
+Angka-angka Pada Barang: 1 6 5 2
+Barang yang dicari: 1
+Sample Output 0
+
+Urutan Barang: 6 5 2 1
+1 ditemukan pada barang ke 4

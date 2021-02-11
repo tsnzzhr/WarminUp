@@ -1,0 +1,21 @@
+Roy adalah mahasiswa di universitas MIT, dia mendapatkan soal praktikum dimana dia harus menghitung berapa jumlah huruf vokal dan konsonan di dalam sebuah string menggunakan pointer, dia meminta bantuan pada anda untuk menyelesaikan soal tersebut.
+
+Input Format
+
+Pada input, masukkan sebuah string yang akan dihitung, spasi akan tidak dimasukkan dalam perhitungan
+
+Constraints
+
+panjang string < 50
+
+Output Format
+
+Pada output, akan dimunculkan jumlah huruf vokal dan konsonan dalam string yang diinputkan, lihat sample output untuk contoh lebih detail
+
+Sample Input 0
+
+Semangat Ya
+Sample Output 0
+
+Jumlah Vokal: 4
+Jumlah Konsonan: 6

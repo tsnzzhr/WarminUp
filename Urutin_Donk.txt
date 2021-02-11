@@ -1,0 +1,27 @@
+Roy sedang ingin ngoding, dia melihat beberapa string di layar komputernya, dan dia ingin mengurutkan kata-kata tersebut secara terbalik dengan algoritma sort, bantulah ia untuk membuat program tersebut
+
+Input Format
+
+Pada baris pertama diminta n jumlah string yang akan diurutkan n baris berikutnya berisi string yang akan diurutkan secara terbalik
+
+Constraints
+
+0
+
+Output Format
+
+Output berupa urutan string yang diurutkan secara terbalik menurut aturan alfabetik
+
+Sample Input 0
+
+4
+Semangat
+Praktikum
+Terakhir
+:)
+Sample Output 0
+
+Terakhir
+Semangat
+Praktikum
+:)

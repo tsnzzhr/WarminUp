@@ -1,0 +1,47 @@
+Lakukan binary search ke input yang disediakan!
+
+Inputnya 2D hehe
+
+Outputkan Baris dan Kolom dari angka yang dicari!
+
+Input Format
+
+Baris pertama merupakan N panjang sisi persegi N x N
+
+N baris selanjutnya merupakan input angka A yang membentuk persegi
+
+Baris selanjutnya merupakan bilangan M yaitu bilangan yang dicari
+
+Constraints
+
+1 ≤ N ≤ 50
+
+1 ≤ M,A ≤ 50
+
+Output Format
+
+Keluarkan Baris dan Kolom dari bilangan yang dicari!
+
+Sample Input 0
+
+5
+4 3 2 1 5
+3 8 9 0 2
+3 7 7 2 1
+8 9 0 0 1
+7 7 2 1 6
+7
+Sample Output 0
+
+3 4
+Sample Input 1
+
+4
+1 2 8 9
+2 7 6 3
+0 7 3 9
+1 2 3 4
+4
+Sample Output 1
+
+4 4

@@ -1,0 +1,32 @@
+Brad adalah seorang programmer kelas dunia, dia ingin membuat program yang menggunakan struct untuk menghitung selisih antara 2 waktu terbesar dan terkecil yang dimasukkan saat di input, namun dia mengalami kesulitan, dan dia meminta bantuan anda untuk membantunya! Ada beberapa syarat yang harus diikuti : 1. Format waktu adalah Jam, Menit, dan detik 2. Jika waktu kedua lebih besar dari waktu pertama, perhitungan akan ditukar menjadi waktu kedua dikurangi waktu pertama
+
+Input Format
+
+(waktu 1)
+jam
+menit
+detik
+(waktu 2)
+jam
+menit
+detik
+
+Constraints
+
+waktu jam dalam format 0-24, dan untuk menit dan detik 0-59
+
+Output Format
+
+perhitungan pengurangan antara waktu terbesar dan terkecil, lihat sample output untuk format lebih detail
+
+Sample Input 0
+
+13
+34
+55
+8
+12
+15
+Sample Output 0
+
+Beda Waktunya : 13:34:55 - 8:12:15 = 5:22:40

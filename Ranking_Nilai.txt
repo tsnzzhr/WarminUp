@@ -1,0 +1,44 @@
+Di akhir semester ini, Rena diminta Pak Gus untuk membantu merekap total nilai mahasiswanya dan merangkingnya. Karena Rena juga merupakan salah satu mahasiswa Pak Gus, Rena penasaran berapakah nilai yang dibutuhkan untuk mencapai ranking tertentu
+
+Input Format
+
+Baris pertama berisi bilangan P yang menandakan jumlah nilai. P Baris selanjutnya berisi Q yaitu nilai yang diinput. Lalu, baris selanjutnya berisi bilangan R yaitu Rangking yang diminta.
+
+Constraints
+
+1 ≤ P ≤ 10^3
+
+1 ≤ Q ≤ 10^9
+
+1 ≤ R ≤ 10^3
+
+Output Format
+
+Output berisi nilai di rangking yang di minta, jika ranking tidak ditemukan keluarkan -1
+
+Sample Input 0
+
+5
+100
+60
+80
+20
+89
+3
+Sample Output 0
+
+80
+Sample Input 1
+
+7
+100
+80
+25
+31
+90
+33
+77
+4
+Sample Output 1
+
+77
